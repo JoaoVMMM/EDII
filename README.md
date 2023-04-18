@@ -4,3 +4,6 @@ This repository was made to arrange the weekly task from the course: Algorithm a
 
 # WEEK 3
 [https://www.loom.com/share/871b5d00533145cd86be0b30c1e787f6 ](https://www.loom.com/share/fc6fe21f32bf4c2bab4bf776ae1c5d4e)  
+
+# WEEK 4
+https://www.loom.com/share/b5bb65c1608e48999d7ac2788589595c
