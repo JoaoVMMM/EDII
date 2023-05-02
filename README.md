@@ -9,5 +9,5 @@ This repository was made to arrange the weekly task from the course: Algorithm a
 https://www.loom.com/share/b5bb65c1608e48999d7ac2788589595c
 
 # WEEK 6
-https://www.loom.com/share/4e1145b72bd14f79a8fdcd3844c394a6
+https://www.loom.com/share/4e1145b72bd14f79a8fdcd3844c394a6  
 Certificate link: https://app.dataquest.io/view_cert/4KL0OZPN34W9ZP24B49C
